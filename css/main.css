@@ -300,7 +300,9 @@ body > section {
   pointer-events: none;
   z-index: 1;
 }
-
+.tittle {
+  background-color: #2ecc71;
+}
 .tittle h1 {
   color: white;
   margin: 0;
@@ -825,7 +827,5 @@ ul.gallery li {
 
 /*Colors*/
 
-.tittle {
-  background-color: #2ecc71;
-}
+
 >>>>>>> c5b905b64178b5978fbbe17817596504b0a66732
