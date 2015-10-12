@@ -1,0 +1,52 @@
+body, html {
+	width: 100%;
+}
+
+/*---BODY---*/
+
+body {
+  padding-top: 80px;
+  color: #34495e;
+  background: #f5f5f5;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+/*---HEADER---*/
+
+.navbar-inverse {
+  border: none;
+}
+.navbar-gray {
+	background-color: #34495e;
+}
+.navbar-gray a {
+	color: #bdc3c7;
+}
+.navbar-gray a:hover {
+	color: #d9534f;
+}
+.navbar-inverse .navbar-brand {
+	font-family: 'Bubbler One',sans-serif;
+	font-size: 36px;
+	line-height: 50px;
+	color: #fff;
+}
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form {
+  border-top: 0;
+}
+.navbar-inverse .navbar-nav {
+	margin-top: 20px;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover {
+  background-color: #2c3e50;
+}
+.navbar-inverse .navbar-nav > li > a {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 4px;
+    color: #bdc3c7;
+}
+
